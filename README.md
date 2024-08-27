@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+A Modern Dice roller app using Flutter.
 
 ## Getting Started
 
